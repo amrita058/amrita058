@@ -6,7 +6,7 @@
 ### <div align="center">I'm Amrita Bhattarai, a full-time full-stack developer 👨‍💻 experienced in designing and implementing web and mobile applications 🚀</div>  
   
 
-- 🔭 I’m currently working on [Inflancer](https://inflancer.com/)  
+- 🔭 I’m currently working on [Yatri Motorcycles]([https://inflancer.com/](https://apps.apple.com/np/app/yatri-energy/id6443879446))  
   
 
 - 🌱 I’m currently learning React Native and Node JS  
