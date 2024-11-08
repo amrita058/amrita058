@@ -79,7 +79,7 @@
 <a href="https://www.facebook.com/amrita.bhattarai.50596" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Sekai58" target="_blank">
+<a href="https://github.com/amrita058" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -88,8 +88,8 @@
 
 ## My Github Stats 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sekai58&theme=dark" alt="sekai58" height="180" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sekai58&theme=dark&show_icons=true&locale=en&layout=compact" alt="sekai58" height="180" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amrita058&theme=dark" alt="amrita058" height="180" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrita058&theme=dark&show_icons=true&locale=en&layout=compact" alt="amrita058" height="180" /></p>
 
 
 
